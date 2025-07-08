@@ -10,8 +10,6 @@ A basic CDS tool which uses RAG to support clinical decisions using national and
 - **utils.py** - JSON extractor code from LLM response
 - **cks_conditions_data.json** - Scraped data from NICE CKS (Jul 2025)
 
-## Status
-
 To be updated...
 
 ## Disclaimer
